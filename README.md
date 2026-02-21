@@ -29,7 +29,7 @@ Tools&Technologies
 * 🔹 **Portfolio Website** – Showcasing skills, experience, and projects
   https://sirishaparasa4.github.io/portfolio/
 
-* 🔹 **SmartDocAI** – AI Powered document analysis and chat.
+* 🔹 **SmartDocAI** – AI Powered smartdocai chatbot.
 > More coming soon! Check pinned repos or visit the [Projects](#) section above ⬆️
 
 ---
