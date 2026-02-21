@@ -1,4 +1,4 @@
-## 👋 Hello, i'm Vijaya Naga Sirisha!
+## 👋 Hello, i'm  Parasa Vijaya Naga Sirisha!
 🎯 A passionate Java Full Stack Developer and Web Developer with a strong foundation in building dynamic, responsive, and scalable applications. I enjoy crafting clean code, learning new technologies, and building full-stack solutions.
 
 💡About Me
